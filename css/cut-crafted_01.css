@@ -70,7 +70,7 @@ h6 {
   font-weight: 700;
 }
 
-p {
+p, li {
   margin-bottom: 30px;
   font-family: Euclidcircularb, sans-serif;
   color: #000;
@@ -610,7 +610,7 @@ a {
   h6 {
     font-size: 1.9vw;
   }
-  p {
+  p, li {
     font-size: 1.6vw;
   }
   .main-section {
@@ -725,7 +725,7 @@ a {
     margin-bottom: 18px;
     padding-top: 15px;
   }
-  p {
+  p, li {
     margin-bottom: 18px;
     font-size: 1.75vw;
   }
@@ -843,7 +843,7 @@ a {
     margin-bottom: 20px;
     font-size: 4vw;
   }
-  p {
+  p, li {
     font-size: 4vw;
   }
   .main-section {
